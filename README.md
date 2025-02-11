@@ -1,6 +1,6 @@
 # 💬 Translation App
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's gpt-4o-mini.
+A simple translation app using OpenAI's gpt-4o-mini.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://due2vhuegpbk2tvrh5uhuw.streamlit.app/)
 
