@@ -22,8 +22,8 @@ options = ["Spanish", "German", "French", "Farsi"]
 
 # Create a dropdown
 selected_option = "Spanish"
-selected_option = st.selectbox("Choose an option:", options)
-if st.button("Click Me"):
+selected_option = st.selectbox("Select a language to translate:", options)
+if st.button("Translate"):
 
     st.write("Translated text:", translate(selected_option))
     
