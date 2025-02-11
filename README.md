@@ -1,8 +1,8 @@
-# 💬 Chatbot template
+# 💬 Translation App
 
 A simple Streamlit app that shows how to build a chatbot using OpenAI's gpt-4o-mini.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://chatbot-template.streamlit.app/](https://due2vhuegpbk2tvrh5uhuw.streamlit.app/))
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://due2vhuegpbk2tvrh5uhuw.streamlit.app/))
 
 ### How to run it on your own machine
 
